@@ -1,0 +1,17 @@
+FLIGHT DELAY PREDICTION SYSTEM - OPERATIONAL INSIGHTS
+============================================================
+
+Total Flights Analyzed: 1000
+Delayed Flights: 690 (69.0%)
+On-Time Flights: 310 (31.0%)
+
+Average Delay Duration: 40.0 minutes
+Maximum Delay: 172 minutes
+Minimum Delay: 15 minutes
+
+Delay Rate with High Wind (>20 mph): 72.9%
+Delay Rate with Heavy Precipitation (>0.5 in): 72.0%
+Delay Rate with High Airport Congestion (>75%): 81.2%
+
+Best Performing Airline: JetBlue
+Worst Performing Airline: American
